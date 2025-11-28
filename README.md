@@ -1,7 +1,7 @@
 # License-Plate-Detection-using-OpenCV-and-Haar-Cascade
 
-## NAME - JANANI K
-## REG NO - 212224230102
+## NAME - YAAZHINI S
+## REG NO - 212224230308
 
 ## Project Overview
 This project implements a License Plate Detection system using OpenCV’s Haar Cascade Classifier.
